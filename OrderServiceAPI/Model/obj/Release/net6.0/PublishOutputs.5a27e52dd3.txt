@@ -1,0 +1,3 @@
+C:\rabbitsamples\LABS_CONVERSIONS\DOCKERIZING_masstransit-demo-main\OrderServiceAPI\Model\out\Model.dll
+C:\rabbitsamples\LABS_CONVERSIONS\DOCKERIZING_masstransit-demo-main\OrderServiceAPI\Model\out\Model.deps.json
+C:\rabbitsamples\LABS_CONVERSIONS\DOCKERIZING_masstransit-demo-main\OrderServiceAPI\Model\out\Model.pdb
